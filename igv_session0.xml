@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="hg38_1kg" locus="chr12:71439778-71439823" version="8">
+    <Panel height="3036" name="FeaturePanel" width="1160">
+        <Track attributeKey="Reference sequence" clazz="org.broad.igv.track.SequenceTrack" fontSize="10" id="Reference sequence" name="Reference sequence" sequenceTranslationStrandValue="POSITIVE" shouldShowTranslation="true" visible="true"/>
+        <Track attributeKey="Refseq Genes" clazz="org.broad.igv.track.FeatureTrack" displayMode="EXPANDED" fontSize="10" groupByStrand="false" id="https://s3.amazonaws.com/igv.org.genomes/hg38/ncbiRefSeq.sorted.txt.gz" name="Refseq Genes" visible="true"/>
+    </Panel>
+    <PanelLayout dividerFractions="0.5538656527249683"/>
+    <HiddenAttributes>
+        <Attribute name="DATA FILE"/>
+        <Attribute name="DATA TYPE"/>
+        <Attribute name="NAME"/>
+    </HiddenAttributes>
+</Session>
